@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>IPHONE STORE</h1>
+    <h2>All Accesories Available</h2>
+    <OL>
+        <LI>
+            <P>IPHONE 13 PRO MAX</P>
+            <p>i have recently purchased a huge stock of iphones and i am selling it at much cheaper costs so buy it as fast as you can</p>
+            <img width="300" src="https://compasia.com.ph/cdn/shop/files/iphone-13-pro-max-233743.png?v=1737456763" alt="">
+        </LI>
+    </OL>
+    <ol>
+        <li>
+            <p>APPLE MACBOOK AIR 13</p>
+            <p>apple macbook air 13 has recently came so i have limited stock if you want to buy please tell me fast</p>
+            <img width="300" src="https://static3.webx.pk/files/4012/Images/11-4012-2280650-181224095605041.jpeg" alt="">
+        </li>
+    </ol>
+    <ol>
+        <li>
+            <p>APPLE AIRPODS PRO</p>
+            <p>these are the latest airpods with second generation</p>
+            <img width="300" src="https://wise-tech.com.pk/wp-content/uploads/2024/07/APPLE-AIRPOD-PRO-2-USB-C-MTJV3-800x800.png.webp" alt="">
+        </li>
+    </ol>
+    <h2><B><I>THANK YOU EVERYONE</I></B></h2>
+</body>
+</html>
